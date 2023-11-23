@@ -7,7 +7,7 @@
 #
 # https://github.com/P3TERX/Actions-OpenWrt
 # File name: diy-part2.sh
-# Description: OpenWrt DIY script part 2 (After Update feeds)
+# Description: 该文件默认的是在openwrt目录下操作
 #
 
 # Modify default IP
